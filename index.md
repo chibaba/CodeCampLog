@@ -27,3 +27,17 @@
 - watched videos on data structures and algorithms
 -  introdution to DOM and BOM in javascript.
 
+### Monday 3rd july 2017
+- created a showbirthday button
+- attached a click event handler
+- writing function to event handler
+- created a form
+- event handler
+- event listener
+- asynchronised function in javascript
+- jquerry documentation
+- 
+
+
+- 
+
