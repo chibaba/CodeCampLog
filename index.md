@@ -36,8 +36,19 @@
 - event listener
 - asynchronised function in javascript
 - jquerry documentation
-- 
 
+#### Tuesday 4th july 2017
+- Learnt the Basics of javascript
+- concatenation
+- strings
+- countdown timer
 
-- 
+#### Wednesday 5th july 2017
+- deliberated on Projects and ideas
+- introduced to repl.it
+- worked on event listener in javascript
+- understood setinterval
+- Date.Now
+
+ 
 
