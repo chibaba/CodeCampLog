@@ -50,5 +50,21 @@
 - understood setinterval
 - Date.Now
 
+### thursday 6th july 2017
+- Arguments in javascript
+- the return keyword 
+- intoduction to scope
+- project presentation
+
+### friday 7th july 2017
+- global scope
+- higher order functions
+- introduction to arrays
+- toDo list codeAlong
  
 
+### saturday 8th july 2017
+- comparism between arrays and object
+- how to get element in array
+- how to add to array
+- rep.it excercises
