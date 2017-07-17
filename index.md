@@ -68,3 +68,49 @@
 - how to get element in array
 - how to add to array
 - rep.it excercises
+
+### sunday 9th july 2017
+- comparism between arrays and objects
+- compute average length of words
+- addObject to property
+- 
+
+
+### Monday 10th july  2017
+- for loop in javascript
+- for each loop in javascript
+- `Repl.it` was used
+### Tuesday 11th july 2017
+- to check if `object key exist`
+- to check an `array from an array`
+- create an array from an array
+- introduction to `node.js`
+- how to modify `open source project`
+
+### wednesday 12th july 2017
+- repl.it `regular expression`
+- user interface of a `TODO APP`
+- html and css 
+-`Bootsrap framework`
+- work with `framework`
+
+### thursday 13th july 2017
+- the use of `jquerry` in building our toDo app
+- how to use event listerner
+- targeting element from the `DOM`
+### Friday 14th july 2017
+-  a total overhaul and review of the jquerry App
+- Using`higher Order function` in building ourTodo App
+- keeping our `Code dry` for efficiency while bulding our todo App
+- `state management` and `todo.filter`
+
+### saturday 15th july 2017
+- understanding how event handlers work
+- general review of todo app
+
+### sunday 16th july 2017
+- touch typing
+- repl.it
+- jquerry preview
+- 
+
