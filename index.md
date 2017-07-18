@@ -114,3 +114,8 @@
 - jquerry preview
 - 
 
+### monday 17th july 2017
+- Review of `Node.js`
+- the use of `app.use`
+- the use of `app.get`
+- the use of `app.listen`
