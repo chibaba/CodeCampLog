@@ -119,3 +119,30 @@
 - the use of `app.use`
 - the use of `app.get`
 - the use of `app.listen`
+
+### tuesday 18th july 2017
+- learnt `parts of a url`
+- `HTTP` request methods
+- `the Request object and Response object`
+- Using `Node.js` for backend server
+- installation of `Express` and the use of `Express` for our backend efficiency
+
+### wednesday 19th july 2017
+-   Touch typing
+- worked on my `node.js`
+- full understanding of the `Todo App`
+
+### thursday 20th july 2017
+- `preview of backend TodoApp`
+- collective work on `ionic javascript framework`
+-
+### friday 21st july 2017
+- introduction to my firstApp`chatApp`
+- U.I for my `chatApp`
+- U.X for my `chatApp`
+### saturday 22nd july 2017
+- introduction to `QuizApp`
+- built  U.I for the App
+### sunday 23rd july 2017
+- touchTyping
+- introducing javascript to my App.
