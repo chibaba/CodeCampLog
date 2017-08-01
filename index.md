@@ -146,3 +146,41 @@
 ### sunday 23rd july 2017
 - touchTyping
 - introducing javascript to my App.
+### monday 24th july 2017
+- built an U I template
+- introduction to bootsrap 4
+- touch typing
+### Tuesday 25th july 2017
+- brought in jquerry
+- introduction to `UX` template for our `KODEDLAND` app
+- install`express` on mongodb
+- 
+### wednesday 26th july 2017
+- learnt `Mongodb` installation
+- learnt how to use`cloud base database`
+- partial folder `foot.ejs, head.ejs`
+### thursday 27th july 2017
+- understood the concept of views
+- touch typing
+- a general preview of how mongoose.Promise
+- mongodb
+### friday 28th july 2017
+- added delete functionality to `Kodedland`
+- addede  search functionality to `KodedLand`
+
+### saturday 29th july 2017
+- addeded signup page to `KodedLand App`
+
+### sunday 30th july 2017
+- Did a `Review on Arrays and prototypes,
+-   `some`
+- `sort`
+- `map`
+-`filter`
+
+### monday 31st july 2017
+- worked on `U.I` designs using bootsrap 4
+- using javascript and Css to creAte a flexible panel.
+
+
+
