@@ -181,6 +181,37 @@
 ### monday 31st july 2017
 - worked on `U.I` designs using bootsrap 4
 - using javascript and Css to creAte a flexible panel.
+### tuesday 1st August 2017
+- built an `Html canvas` App
+- learnt props and state
+
+### wednesday 2nd August 2017
+- introduction to `REACT`
+- state management in react
+- tic-tac-toe game built with `REACT`
+### thursday 3rd August 2017
+- built a video player with `javascript`
+- built a CTx canvass
+- lesrnt slide in scrolls with javascript
+
+### friday 4th August 2017
+- worked on components in `react`
+- solving complex Algorithms via`codeWars`
+
+### saturday 5th 2017
+- Rendering multiple components with react
+- `understood the concept of state and props`
+- introduction to rout in `react`
+
+### sunady 6th August 2017
+- did a review on Arrays and Prototypes
+`reduce`
+`map`
+`sort`
+`Array.from`
+`data-set`
+- worked on some devtools skills
+- the concept of `Event Delegation`
 
 
 
