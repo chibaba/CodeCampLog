@@ -213,5 +213,10 @@
 - worked on some devtools skills
 - the concept of `Event Delegation`
 
+### monday 7th August 2017
+- using a pushFunction withoutut writing the push function
+-spread operators and REST
+-
+
 
 
