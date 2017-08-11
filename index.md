@@ -216,7 +216,15 @@
 ### monday 7th August 2017
 - using a pushFunction withoutut writing the push function
 -spread operators and REST
--
+
+### tuesday 2017
+- `making unique object by passing unique parameters to our object`
+- `objects and constructor functions`
+### wednesday 2017
+- learnt `composition in javascript`
+- learnt `composition utility`
+-  learnt `pure functions and side effect`
+- learnt `immutability `
 
 
 
