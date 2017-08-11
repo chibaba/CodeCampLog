@@ -226,5 +226,10 @@
 -  learnt `pure functions and side effect`
 - learnt `immutability `
 
+### thursday 2017
+- understanding the concept of functions
+- working on my portgolio page.
+- understanding the concept of methods in objects.
+
 
 
