@@ -228,8 +228,28 @@
 
 ### thursday 2017
 - understanding the concept of functions
-- working on my portgolio page.
+- working on my portfolio page.
 - understanding the concept of methods in objects.
 
+### friday 12th  August 2017
+- worked on my portfolio Template
+- Business talk at the hashhub
+### saturday 13th August 2017
+- `Event handlers`
+- `Adding a click to an event`
+-`Giving Buttton click handlers`
+- Addding `Element to the Dom`
+- `Anatomy of a function`
+- understanding the `This` key word
+- understanding how `constructor works` i.e invoking a constructor to create an object.
+- understanding how `Geolocation API` determines location.
+- How to add `MAP` to page.
 
+### sunday 14th August 2017
+- learnt `How to make a request to server`
+- understanding the transition between `XML and JSON`
+- using `JSON`
+- `Browser and security policy
+- the concept of `JSONP`
+- how to update a `JSONP` url
 
