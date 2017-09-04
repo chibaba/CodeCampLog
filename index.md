@@ -261,5 +261,7 @@
 ### saturday 26th August 
 - built a book selling web app.
 
-### sunday 
+### monday 4th september 2017
+- exporting modules
+- `changinging classes and states`
 
