@@ -253,3 +253,13 @@
 - the concept of `JSONP`
 - how to update a `JSONP` url
 
+### friday 25th August 2017
+- `model` and `schema`
+- `mongodb` installation
+-`mongoose`
+
+### saturday 26th August 
+- built a book selling web app.
+
+### sunday 
+
